@@ -1,0 +1,15 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/obj/Debug/net8.0/MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/obj/Debug/net8.0/MediatorPattern.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/obj/Debug/net8.0/MediatorPattern.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/obj/Debug/net8.0/MediatorPattern.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/obj/Debug/net8.0/MediatorPattern.sourcelink.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/bin/Debug/net8.0/MediatorPattern
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/bin/Debug/net8.0/MediatorPattern.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/bin/Debug/net8.0/MediatorPattern.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/bin/Debug/net8.0/MediatorPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/bin/Debug/net8.0/MediatorPattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/obj/Debug/net8.0/MediatorPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/obj/Debug/net8.0/refint/MediatorPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/obj/Debug/net8.0/MediatorPattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/obj/Debug/net8.0/MediatorPattern.genruntimeconfig.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/MediatorPattern/obj/Debug/net8.0/ref/MediatorPattern.dll
