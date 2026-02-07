@@ -1,0 +1,8 @@
+namespace Classic.Collections
+{
+    public interface IIterator<T>
+    {
+        bool HasNext();
+        T Next();
+    }
+}

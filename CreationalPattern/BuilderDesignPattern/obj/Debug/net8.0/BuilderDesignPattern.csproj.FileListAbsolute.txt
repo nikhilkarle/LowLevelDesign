@@ -1,0 +1,14 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/obj/Debug/net8.0/BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/obj/Debug/net8.0/BuilderDesignPattern.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/obj/Debug/net8.0/BuilderDesignPattern.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/obj/Debug/net8.0/BuilderDesignPattern.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/bin/Debug/net8.0/BuilderDesignPattern
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/bin/Debug/net8.0/BuilderDesignPattern.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/bin/Debug/net8.0/BuilderDesignPattern.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/bin/Debug/net8.0/BuilderDesignPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/bin/Debug/net8.0/BuilderDesignPattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/obj/Debug/net8.0/BuilderDesignPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/obj/Debug/net8.0/refint/BuilderDesignPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/obj/Debug/net8.0/BuilderDesignPattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/obj/Debug/net8.0/BuilderDesignPattern.genruntimeconfig.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/BuilderDesignPattern/obj/Debug/net8.0/ref/BuilderDesignPattern.dll

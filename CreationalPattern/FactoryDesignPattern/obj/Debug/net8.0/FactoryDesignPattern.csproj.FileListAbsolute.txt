@@ -1,0 +1,14 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/obj/Debug/net8.0/FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/obj/Debug/net8.0/FactoryDesignPattern.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/obj/Debug/net8.0/FactoryDesignPattern.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/obj/Debug/net8.0/FactoryDesignPattern.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/bin/Debug/net8.0/FactoryDesignPattern
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/bin/Debug/net8.0/FactoryDesignPattern.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/bin/Debug/net8.0/FactoryDesignPattern.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/bin/Debug/net8.0/FactoryDesignPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/bin/Debug/net8.0/FactoryDesignPattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/obj/Debug/net8.0/FactoryDesignPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/obj/Debug/net8.0/refint/FactoryDesignPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/obj/Debug/net8.0/FactoryDesignPattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/obj/Debug/net8.0/FactoryDesignPattern.genruntimeconfig.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/FactoryDesignPattern/obj/Debug/net8.0/ref/FactoryDesignPattern.dll

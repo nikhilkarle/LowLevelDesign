@@ -1,0 +1,14 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/StrategyPattern.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/StrategyPattern.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/bin/Debug/net8.0/StrategyPattern
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/bin/Debug/net8.0/StrategyPattern.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/bin/Debug/net8.0/StrategyPattern.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/bin/Debug/net8.0/StrategyPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/bin/Debug/net8.0/StrategyPattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/StrategyPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/refint/StrategyPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/StrategyPattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/StrategyPattern.genruntimeconfig.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/ref/StrategyPattern.dll

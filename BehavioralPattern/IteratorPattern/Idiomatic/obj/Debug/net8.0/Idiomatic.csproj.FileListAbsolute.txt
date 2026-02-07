@@ -1,0 +1,14 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/Idiomatic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/Idiomatic.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/Idiomatic.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/Idiomatic.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/bin/Debug/net8.0/Idiomatic
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/bin/Debug/net8.0/Idiomatic.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/bin/Debug/net8.0/Idiomatic.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/bin/Debug/net8.0/Idiomatic.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/bin/Debug/net8.0/Idiomatic.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/Idiomatic.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/refint/Idiomatic.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/Idiomatic.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/Idiomatic.genruntimeconfig.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/ref/Idiomatic.dll
