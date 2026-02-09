@@ -1,0 +1,15 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.sourcelink.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/bin/Debug/net8.0/TemplatePattern
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/bin/Debug/net8.0/TemplatePattern.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/bin/Debug/net8.0/TemplatePattern.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/bin/Debug/net8.0/TemplatePattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/bin/Debug/net8.0/TemplatePattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/obj/Debug/net8.0/refint/TemplatePattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.genruntimeconfig.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/TemplatePattern/obj/Debug/net8.0/ref/TemplatePattern.dll
