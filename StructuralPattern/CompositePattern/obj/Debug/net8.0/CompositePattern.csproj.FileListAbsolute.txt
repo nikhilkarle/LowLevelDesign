@@ -1,0 +1,15 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/bin/Debug/net8.0/CompositePattern
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/bin/Debug/net8.0/CompositePattern.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/bin/Debug/net8.0/CompositePattern.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/bin/Debug/net8.0/CompositePattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/bin/Debug/net8.0/CompositePattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/obj/Debug/net8.0/CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/obj/Debug/net8.0/CompositePattern.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/obj/Debug/net8.0/CompositePattern.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/obj/Debug/net8.0/CompositePattern.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/obj/Debug/net8.0/CompositePattern.sourcelink.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/obj/Debug/net8.0/CompositePattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/obj/Debug/net8.0/refint/CompositePattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/obj/Debug/net8.0/CompositePattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/obj/Debug/net8.0/CompositePattern.genruntimeconfig.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/CompositePattern/obj/Debug/net8.0/ref/CompositePattern.dll
