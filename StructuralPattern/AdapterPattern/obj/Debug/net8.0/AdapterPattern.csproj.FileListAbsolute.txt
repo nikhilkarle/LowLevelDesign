@@ -1,0 +1,15 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/obj/Debug/net8.0/AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/obj/Debug/net8.0/AdapterPattern.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/obj/Debug/net8.0/AdapterPattern.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/obj/Debug/net8.0/AdapterPattern.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/obj/Debug/net8.0/AdapterPattern.sourcelink.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/bin/Debug/net8.0/AdapterPattern
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/bin/Debug/net8.0/AdapterPattern.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/bin/Debug/net8.0/AdapterPattern.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/bin/Debug/net8.0/AdapterPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/bin/Debug/net8.0/AdapterPattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/obj/Debug/net8.0/AdapterPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/obj/Debug/net8.0/refint/AdapterPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/obj/Debug/net8.0/AdapterPattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/obj/Debug/net8.0/AdapterPattern.genruntimeconfig.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/AdapterPattern/obj/Debug/net8.0/ref/AdapterPattern.dll
