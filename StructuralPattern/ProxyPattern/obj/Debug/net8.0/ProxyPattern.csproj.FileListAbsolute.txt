@@ -1,0 +1,15 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/bin/Debug/net8.0/ProxyPattern
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/bin/Debug/net8.0/ProxyPattern.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/bin/Debug/net8.0/ProxyPattern.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/bin/Debug/net8.0/ProxyPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/bin/Debug/net8.0/ProxyPattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/obj/Debug/net8.0/ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/obj/Debug/net8.0/ProxyPattern.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/obj/Debug/net8.0/ProxyPattern.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/obj/Debug/net8.0/ProxyPattern.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/obj/Debug/net8.0/ProxyPattern.sourcelink.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/obj/Debug/net8.0/ProxyPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/obj/Debug/net8.0/refint/ProxyPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/obj/Debug/net8.0/ProxyPattern.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/obj/Debug/net8.0/ProxyPattern.genruntimeconfig.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/StructuralPattern/ProxyPattern/obj/Debug/net8.0/ref/ProxyPattern.dll
