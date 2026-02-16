@@ -1,3 +1,5 @@
+Patterns used:
+
 Strategy (ISpotAssignmentStrategy)
 “I can swap allocation policies (best-fit, nearest, reserved, EV-only) without changing the orchestrator.”
 
