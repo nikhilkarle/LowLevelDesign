@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern.csproj",
+      "projectUniqueName": "/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalPattern/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern.csproj",
       "projectName": "AbstractFactoryDesignPattern",
-      "projectPath": "/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern.csproj",
+      "projectPath": "/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalPattern/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern.csproj",
       "packagesPath": "/Users/nikhilkarle/.nuget/packages/",
-      "outputPath": "/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/AbstractFactoryDesignPattern/obj/",
+      "outputPath": "/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalPattern/AbstractFactoryDesignPattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nikhilkarle/.nuget/NuGet/NuGet.Config"

@@ -12,3 +12,4 @@
 /Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Classic/obj/Debug/net8.0/Classic.pdb
 /Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Classic/obj/Debug/net8.0/Classic.genruntimeconfig.cache
 /Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Classic/obj/Debug/net8.0/ref/Classic.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Classic/obj/Debug/net8.0/Classic.sourcelink.json

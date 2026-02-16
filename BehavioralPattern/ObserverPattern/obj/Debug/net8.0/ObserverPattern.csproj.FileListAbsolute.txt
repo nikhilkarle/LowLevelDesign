@@ -12,3 +12,4 @@
 /Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/ObserverPattern/obj/Debug/net8.0/ObserverPattern.pdb
 /Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/ObserverPattern/obj/Debug/net8.0/ObserverPattern.genruntimeconfig.cache
 /Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/ObserverPattern/obj/Debug/net8.0/ref/ObserverPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/ObserverPattern/obj/Debug/net8.0/ObserverPattern.sourcelink.json

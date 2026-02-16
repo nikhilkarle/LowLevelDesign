@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gE4gOSEqSE+j0Jw35tfLc5CfOU959Iempt47vbqmfQ5LVSIrOMNfNKpGktlkRrmF1pOZQqUKJHjZMlf/ESNEjA==",
+  "dgSpecHash": "R5L9ZyFpYCMSwq9/qsJEF2LA8bsPtdze7X43F946Ngq6EMN4RNVpuvM0mdeontxggFTGJPyQmzObu70YneeZIQ==",
   "success": true,
-  "projectFilePath": "/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalDesignPattern/SingletonDesignPattern/SingletonDesignPattern.csproj",
+  "projectFilePath": "/Users/nikhilkarle/Desktop/LowLevelDesign/CreationalPattern/SingletonDesignPattern/SingletonDesignPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -12,3 +12,4 @@
 /Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/Idiomatic.pdb
 /Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/Idiomatic.genruntimeconfig.cache
 /Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/ref/Idiomatic.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/IteratorPattern/Idiomatic/obj/Debug/net8.0/Idiomatic.sourcelink.json

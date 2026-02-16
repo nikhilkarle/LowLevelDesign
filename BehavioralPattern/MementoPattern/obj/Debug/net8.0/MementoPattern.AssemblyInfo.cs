@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MementoPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd7a5a86ef9fe90b0d053fb9c2b6d98c6a5f170f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86ab69b2d9c42770dd256c74bff3ae3c91ce0c60")]
 [assembly: System.Reflection.AssemblyProductAttribute("MementoPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MementoPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

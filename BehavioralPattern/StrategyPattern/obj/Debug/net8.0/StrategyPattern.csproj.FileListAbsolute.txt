@@ -12,3 +12,4 @@
 /Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/StrategyPattern.pdb
 /Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/StrategyPattern.genruntimeconfig.cache
 /Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/ref/StrategyPattern.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/BehavioralPattern/StrategyPattern/obj/Debug/net8.0/StrategyPattern.sourcelink.json
