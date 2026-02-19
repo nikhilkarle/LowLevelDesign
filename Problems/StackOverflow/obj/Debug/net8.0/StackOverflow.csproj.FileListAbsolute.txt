@@ -1,0 +1,15 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/obj/Debug/net8.0/StackOverflow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/obj/Debug/net8.0/StackOverflow.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/obj/Debug/net8.0/StackOverflow.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/obj/Debug/net8.0/StackOverflow.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/obj/Debug/net8.0/StackOverflow.sourcelink.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/bin/Debug/net8.0/StackOverflow.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/bin/Debug/net8.0/StackOverflow.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/bin/Debug/net8.0/StackOverflow.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/obj/Debug/net8.0/StackOverflow.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/obj/Debug/net8.0/refint/StackOverflow.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/obj/Debug/net8.0/StackOverflow.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/obj/Debug/net8.0/ref/StackOverflow.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/bin/Debug/net8.0/StackOverflow
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/bin/Debug/net8.0/StackOverflow.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/StackOverflow/obj/Debug/net8.0/StackOverflow.genruntimeconfig.cache
