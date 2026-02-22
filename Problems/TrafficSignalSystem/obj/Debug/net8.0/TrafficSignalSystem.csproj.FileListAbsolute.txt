@@ -1,0 +1,15 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/bin/Debug/net8.0/TrafficSignalSystem
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/bin/Debug/net8.0/TrafficSignalSystem.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/bin/Debug/net8.0/TrafficSignalSystem.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/bin/Debug/net8.0/TrafficSignalSystem.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/bin/Debug/net8.0/TrafficSignalSystem.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/obj/Debug/net8.0/TrafficSignalSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/obj/Debug/net8.0/TrafficSignalSystem.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/obj/Debug/net8.0/TrafficSignalSystem.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/obj/Debug/net8.0/TrafficSignalSystem.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/obj/Debug/net8.0/TrafficSignalSystem.sourcelink.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/obj/Debug/net8.0/TrafficSignalSystem.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/obj/Debug/net8.0/refint/TrafficSignalSystem.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/obj/Debug/net8.0/TrafficSignalSystem.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/obj/Debug/net8.0/TrafficSignalSystem.genruntimeconfig.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TrafficSignalSystem/obj/Debug/net8.0/ref/TrafficSignalSystem.dll
