@@ -11,7 +11,6 @@ internal static class Program
 {
     public static async Task Main()
     {
-        // --- Build a tiny 2-road intersection with 2 phases ---
         var ns = new TrafficSignal("NS");
         var ew = new TrafficSignal("EW");
 
@@ -24,15 +23,13 @@ internal static class Program
                 new Phase("EW_Green", greenSignalId: "EW", redSignalId: "NS"),
             });
 
-        // --- Timing plans (Strategy) ---
         var planSelector = new TimingPlanSelector(
             low: new FixedTimingPlan(greenSeconds: 8,  yellowSeconds: 3),
             medium: new FixedTimingPlan(greenSeconds: 12, yellowSeconds: 3),
             heavy: new FixedTimingPlan(greenSeconds: 18, yellowSeconds: 3),
-            emergency: new FixedTimingPlan(greenSeconds: 25, yellowSeconds: 3) // hold longer during emergency
+            emergency: new FixedTimingPlan(greenSeconds: 25, yellowSeconds: 3) 
         );
 
-        // --- Concurrency: sensors -> channel (multi-producer), controller drains (single-consumer) ---
         var channel = Channel.CreateUnbounded<IIntersectionEvent>(
             new UnboundedChannelOptions
             {
@@ -51,14 +48,12 @@ internal static class Program
             cts.Cancel();
         };
 
-        // Start sensors concurrently (multi-producers)
         var sensorTasks = new[]
         {
             Task.Run(() => vehicleSensor.RunAsync(channel.Writer, cts.Token)),
             Task.Run(() => emergencySensor.RunAsync(channel.Writer, cts.Token))
         };
 
-        // Start controller (single-writer owns intersection state)
         var controller = new IntersectionController(intersection, planSelector, channel.Reader);
         controller.Start(initialPhaseIndex: 0);
 
@@ -66,7 +61,6 @@ internal static class Program
 
         try
         {
-            // 1-second tick: deterministic state updates
             while (!cts.IsCancellationRequested)
             {
                 controller.Tick();
@@ -75,7 +69,6 @@ internal static class Program
         }
         catch (OperationCanceledException)
         {
-            // expected
         }
         finally
         {
