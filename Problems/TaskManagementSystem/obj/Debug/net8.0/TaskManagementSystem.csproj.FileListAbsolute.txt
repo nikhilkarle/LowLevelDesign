@@ -1,0 +1,15 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.sourcelink.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/obj/Debug/net8.0/refint/TaskManagementSystem.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.genruntimeconfig.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/TaskManagementSystem/obj/Debug/net8.0/ref/TaskManagementSystem.dll
