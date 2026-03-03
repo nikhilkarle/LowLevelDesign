@@ -1,0 +1,15 @@
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/bin/Debug/net8.0/ATMSystem
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/bin/Debug/net8.0/ATMSystem.deps.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/bin/Debug/net8.0/ATMSystem.runtimeconfig.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/bin/Debug/net8.0/ATMSystem.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/bin/Debug/net8.0/ATMSystem.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/obj/Debug/net8.0/ATMSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/obj/Debug/net8.0/ATMSystem.AssemblyInfoInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/obj/Debug/net8.0/ATMSystem.AssemblyInfo.cs
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/obj/Debug/net8.0/ATMSystem.csproj.CoreCompileInputs.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/obj/Debug/net8.0/ATMSystem.sourcelink.json
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/obj/Debug/net8.0/ATMSystem.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/obj/Debug/net8.0/refint/ATMSystem.dll
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/obj/Debug/net8.0/ATMSystem.pdb
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/obj/Debug/net8.0/ATMSystem.genruntimeconfig.cache
+/Users/nikhilkarle/Desktop/LowLevelDesign/Problems/ATMSystem/obj/Debug/net8.0/ref/ATMSystem.dll
