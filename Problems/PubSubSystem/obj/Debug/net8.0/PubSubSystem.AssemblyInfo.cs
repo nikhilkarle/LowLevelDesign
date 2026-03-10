@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PubSubSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4365cd6af3eb1b8caf0bafda2488b8d72d84394c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fee1fb6fd401ee52c4a321d6147270bd8dcc4d58")]
 [assembly: System.Reflection.AssemblyProductAttribute("PubSubSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PubSubSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
