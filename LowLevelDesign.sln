@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facebook", "Problems\Facebo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantManagementSystem", "Problems\RestaurantManagementSystem\RestaurantManagementSystem.csproj", "{6B0A77C4-8FF2-493C-8A73-46E17A0B9CD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcertTicketBookingSystem", "Problems\ConcertTicketBookingSystem\ConcertTicketBookingSystem.csproj", "{1A7910E3-9023-43CD-B99C-56BC7162B3A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -258,6 +260,10 @@ Global
 		{6B0A77C4-8FF2-493C-8A73-46E17A0B9CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B0A77C4-8FF2-493C-8A73-46E17A0B9CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B0A77C4-8FF2-493C-8A73-46E17A0B9CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A7910E3-9023-43CD-B99C-56BC7162B3A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7910E3-9023-43CD-B99C-56BC7162B3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7910E3-9023-43CD-B99C-56BC7162B3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7910E3-9023-43CD-B99C-56BC7162B3A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{023A014F-23EA-4BD3-B273-9F1B8CFEB38A} = {9C7BFAE0-F7F3-473B-8852-1916A922994C}
@@ -301,5 +307,6 @@ Global
 		{633C5948-F794-45B9-A629-848C18116C16} = {AF5E384F-24EE-494D-A5E4-E7CD0379D0F3}
 		{7D57C37B-A603-4F00-8BD4-63B1983525B5} = {AF5E384F-24EE-494D-A5E4-E7CD0379D0F3}
 		{6B0A77C4-8FF2-493C-8A73-46E17A0B9CD2} = {AF5E384F-24EE-494D-A5E4-E7CD0379D0F3}
+		{1A7910E3-9023-43CD-B99C-56BC7162B3A5} = {AF5E384F-24EE-494D-A5E4-E7CD0379D0F3}
 	EndGlobalSection
 EndGlobal
